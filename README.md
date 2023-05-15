@@ -1,5 +1,5 @@
 
-![codewars](https://www.codewars.com/users/corv/badges/large)
+[![codewars](https://www.codewars.com/users/corv/badges/large)](https://www.codewars.com/users/corv)
 
 <!--
 **OrcClaSH/OrcClaSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
